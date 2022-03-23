@@ -3,3 +3,5 @@ include
 lib
 pyvenv.cfg
 files
+config.py
+database.ini
