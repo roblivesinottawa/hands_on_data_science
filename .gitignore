@@ -6,3 +6,5 @@ files
 config.py
 database.ini
 /Users/rob_the_programmer/Documents/programming/2022/hands_on_data_science/spark-sql-dataframes-workspace/notebook_files
+data
+main_files
